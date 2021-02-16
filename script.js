@@ -9,7 +9,7 @@ const quizData = [
     },
     {
         question: "Who is the President of US?",
-        a: "Florin Pop",
+        a: "Barack Obama",
         b: "Donald Trump",
         c: "Ivan Saldano",
         d: "Mihai Andrei",
